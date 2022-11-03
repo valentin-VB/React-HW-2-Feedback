@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valentin-VB/React-HW-2-Feedback.git/static/css/main.848aedd2.css",
+    "main.js": "/valentin-VB/React-HW-2-Feedback.git/static/js/main.d639fa4e.js",
+    "index.html": "/valentin-VB/React-HW-2-Feedback.git/index.html",
+    "main.848aedd2.css.map": "/valentin-VB/React-HW-2-Feedback.git/static/css/main.848aedd2.css.map",
+    "main.d639fa4e.js.map": "/valentin-VB/React-HW-2-Feedback.git/static/js/main.d639fa4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.848aedd2.css",
+    "static/js/main.d639fa4e.js"
+  ]
+}
