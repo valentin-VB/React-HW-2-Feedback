@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/valentin-VB/React-HW-2-Feedback.git/static/css/main.848aedd2.css",
-    "main.js": "/valentin-VB/React-HW-2-Feedback.git/static/js/main.d639fa4e.js",
-    "index.html": "/valentin-VB/React-HW-2-Feedback.git/index.html",
-    "main.848aedd2.css.map": "/valentin-VB/React-HW-2-Feedback.git/static/css/main.848aedd2.css.map",
-    "main.d639fa4e.js.map": "/valentin-VB/React-HW-2-Feedback.git/static/js/main.d639fa4e.js.map"
+    "main.css": "/React-HW-2-Feedback/static/css/main.848aedd2.css",
+    "main.js": "/React-HW-2-Feedback/static/js/main.0c3e5a1c.js",
+    "index.html": "/React-HW-2-Feedback/index.html",
+    "main.848aedd2.css.map": "/React-HW-2-Feedback/static/css/main.848aedd2.css.map",
+    "main.0c3e5a1c.js.map": "/React-HW-2-Feedback/static/js/main.0c3e5a1c.js.map"
   },
   "entrypoints": [
     "static/css/main.848aedd2.css",
-    "static/js/main.d639fa4e.js"
+    "static/js/main.0c3e5a1c.js"
   ]
 }
